@@ -1,0 +1,42 @@
+{
+  "pop": [
+    {
+      "title": "Happy Pop Playlist 🎉",
+      "link": "https://www.youtube.com/results?search_query=happy+pop+music"
+    },
+    {
+      "title": "Top Trending Pop Songs",
+      "link": "https://www.youtube.com/results?search_query=pop+music+hits"
+    }
+  ],
+  "acoustic": [
+    {
+      "title": "Chill Acoustic Vibes 🌿",
+      "link": "https://www.youtube.com/results?search_query=acoustic+chill+playlist"
+    },
+    {
+      "title": "Sad Acoustic Songs",
+      "link": "https://www.youtube.com/results?search_query=sad+acoustic+songs"
+    }
+  ],
+  "rock": [
+    {
+      "title": "Rock Power Playlist ⚡",
+      "link": "https://www.youtube.com/results?search_query=energetic+rock+music"
+    },
+    {
+      "title": "Angry Rock Songs",
+      "link": "https://www.youtube.com/results?search_query=angry+rock+songs"
+    }
+  ],
+  "lo-fi": [
+    {
+      "title": "Lo-fi Study Beats 🎧",
+      "link": "https://www.youtube.com/results?search_query=lofi+study+beats"
+    },
+    {
+      "title": "Relaxing Lo-fi Mix",
+      "link": "https://www.youtube.com/results?search_query=calm+lofi+music"
+    }
+  ]
+}
