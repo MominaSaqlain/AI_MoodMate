@@ -1,0 +1,117 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #e0f7fa, #fff3e0);
+  margin: 0;
+  padding: 0;
+  color: #333;
+  transition: all 0.3s ease;
+}
+
+.dark-mode {
+  background: #121212;
+  color: #eee;
+}
+
+.top-bar {
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+textarea,
+input[type="file"] {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin: 5px 5px 20px 0;
+  border: none;
+  background-color: #1976d2;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0d47a1;
+}
+
+.dark-mode textarea,
+.dark-mode input[type="file"],
+.dark-mode button {
+  background-color: #333;
+  color: white;
+  border: 1px solid #555;
+}
+
+.controls {
+  margin-top: 10px;
+}
+
+#result {
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.animated-text {
+  animation: pop 0.5s ease;
+}
+
+@keyframes pop {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.2); }
+  100% { transform: scale(1); }
+}
+
+#playlist a {
+  display: block;
+  margin: 5px 0;
+  text-decoration: none;
+  color: #1976d2;
+}
+
+.dark-mode #playlist a {
+  color: #90caf9;
+}
+
+/* 🎯 Mood History Table */
+#historySection table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+#historySection th,
+#historySection td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+#historySection th {
+  background-color: #1976d2;
+  color: white;
+}
+
+.dark-mode #historySection th {
+  background-color: #333;
+}
+
+.dark-mode #historySection td {
+  background-color: #222;
+  color: #eee;
+}
+
