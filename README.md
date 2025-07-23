@@ -34,6 +34,7 @@ AI MoodMate is an intelligent mood-based music recommender web app.
 ## 📸 Screenshot
 
 _Add a screenshot image here later if needed_
+![AI MoodMate Preview](images/screenshot.png)
 
 ---
 
