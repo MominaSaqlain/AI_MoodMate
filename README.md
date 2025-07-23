@@ -36,6 +36,10 @@ AI MoodMate is an intelligent mood-based music recommender web app.
 
 ![AI MoodMate Preview](images/screenshot.png)
 
+## 🚀 Live Demo
+👉 [Click here to try AI MoodMate](https://mominasaqlain.github.io/AI_MoodMate/)
+
+
 ---
 
 > 💻 Made with ❤️ by Momina Saqlain as an internship project
